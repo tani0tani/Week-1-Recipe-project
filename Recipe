@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Week 1 Recipe Project</title>
+    </head>
+
+<body>
+<h1> Potato, Cheddar and Ham Soup Recipe</h1>
+    <h3> List of Ingredients</h3>
+    <ul>
+        <li>5 yellow flesh potatoes (about 2.2 lbs/1 kg), peeled and diced</li>
+        <li>1 onion, diced</li>
+        <li>1 stalk celery, diced</li>
+        <li>1 carrot, shredded</li>
+        <li>2 cups (500 mL) reduced-sodium chicken broth</li>
+        <li>1 cup (250 mL) water</li>
+        <li>1 bay leaf</li>
+        <li>Salt and pepper, to taste</li>
+        <li>1 tbsp (15 mL) all-purpose flour</li>
+        <li>1 cup (250 mL) Milk</li>
+        <li>1/3 cup (80 mL) plain yogurt</li>
+        <li>1 tbsp (15 mL) chopped fresh chives</li>
+        <li>1 cup (250 mL) shredded Canadian Cheddar cheese</li>
+        <li>1 cup (250 mL) cubed lean Black Forest Ham
+    </ul> 
+<P>
+    Preparation
+    <ol>
+        <li> In a 5 to 6 1/2 quart (5 to 6.5 l) slow cooker, combine potatoes, onion, celery, carrot, broth, water, bay leaf. Add salt and pepper to taste. Cover with lid and cook on Low for 6 to 8 hrs or on High for 3 to 4 hrs or until potatoes are soft.</li>
+
+        <li>Remove bay leaf and discard. Coarsely mash potatoes with a potato masher. Whisk flour into milk and stir into the slow cooker. Cover with lid and cook on High for 15 min or until bubbling around the edges.</li>
+
+        <li>Meanwhile, in a small bowl, combine yogurt and chives.</li>
+
+        <li>Stir in Canadian Cheddar and ham. Ladle soup into bowls and top with chive yogurt.</li>
+    </ol>
+    </P>
+</body>
+</html>
